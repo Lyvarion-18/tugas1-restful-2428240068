@@ -106,10 +106,9 @@ http://localhost:3000
 
 Repository GitHub:
 
-[Akan ditambahkan setelah repository dibuat.](https://github.com/Lyvarion-18/tugas1-restful-2428240068)
+(https://github.com/Lyvarion-18/tugas1-restful-2428240068)
 
 ## Deployment
 
 Aplikasi dapat diakses melalui link berikut:
-
-Akan ditambahkan setelah deployment Vercel selesai.
+(https://tugas1-restful-2428240068.vercel.app/)
